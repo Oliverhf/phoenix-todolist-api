@@ -12,7 +12,7 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Create an API with Phoenix(CRUD). Understanding how Phoenix works with requests and creating an API REST that does CRUD operations.
 
-## Side Notes:
+## Side Notes
 
   Pheonix when gets a request its store in a variable called `conn` (connection)
   |> endpoint()
