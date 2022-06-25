@@ -14,7 +14,7 @@ Create an API with Phoenix(CRUD). Understanding how Phoenix works with requests 
 
 ## Side Notes
 
-  Pheonix when gets a request its store in a variable called `conn` (connection)
+  Phoenix when gets a request its store in a variable called `conn` (connection)
   |> endpoint()
   |> router()
   |> controler()
@@ -25,4 +25,4 @@ Create an API with Phoenix(CRUD). Understanding how Phoenix works with requests 
 
   $ iex -S mix -> Executing the imperative prompt of elixir for compile the project, so that I can create new tasks from it.
 
-  The Pheonix organizes the code complexity in layers, helping with the maintainability of the system.
+  The Phoenix organizes the code complexity in layers, helping with the maintainability of the system.
